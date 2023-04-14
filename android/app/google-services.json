@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "875189732284",
+    "project_id": "loginappchat",
+    "storage_bucket": "loginappchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875189732284:android:ec1d34ef1709da9c35e1b9",
+        "android_client_info": {
+          "package_name": "com.example.appchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875189732284-8i4fj5tb7fuk7fqca9kkr2ptfn67tbdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASA48MxIpTTfSUbbmUGa5yo2JjFHRI5ew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875189732284-8i4fj5tb7fuk7fqca9kkr2ptfn67tbdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
