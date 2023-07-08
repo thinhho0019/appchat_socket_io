@@ -1,16 +1,18 @@
-# appchat
+ <h1>App Social Media Flutter - Bloc Pattern</h1>
 
-A new Flutter project.
+ 
+ <h1>1.Main</h1>
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/f105dad9-4ba3-427a-8dd7-2a022cfa9c15)
 
-## Getting Started
+2.Post
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/de9af6dc-0d99-4d00-b5db-a039eb4c186f)
 
-This project is a starting point for a Flutter application.
+3.Conversation
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/a5def4dc-4f0f-46d8-b5f5-42eb9d7a1891)
 
-A few resources to get you started if this is your first Flutter project:
+4.Screen Friend
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/952b0854-cc06-44f1-9474-7bf834670028)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5.Screen Profile
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/thinhho0019/appchat_socket_io/assets/84610502/6d063862-db2b-4d3d-b4fc-67454ec35e12)
